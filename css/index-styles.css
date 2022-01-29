@@ -177,11 +177,11 @@ margin: 0 auto;
 
 /*hero*/
 .hero-main{
-width: 1200px;
+
     padding-top: 200px;
     padding-bottom: 200px;
     background: #2F303A;
-    margin: 0 auto;
+  
 
 }
 
@@ -201,10 +201,12 @@ width: 1200px;
 
 /*Service*/
 .services{
+    padding-top: 94px;
     padding-bottom: 94px;
 }
 
 .sevices-list{
+    margin-top: 50px;
     display: flex;
 }
 
@@ -225,6 +227,7 @@ width: 1200px;
     text-transform: uppercase;
     color: #212121;
     padding-top: 10px;
+ 
 
  
 }
@@ -240,6 +243,7 @@ width: 1200px;
     letter-spacing: 0.03em;
 
     color: #757575;
+    
 }
 
 /*What we do*/
@@ -257,6 +261,7 @@ width: 1200px;
     letter-spacing: 0.03em;
     color: #212121;
     text-align: center;
+    margin-bottom: 50px;
 
 }
 
@@ -271,8 +276,8 @@ width: 1200px;
 /*our-team*/
 
 .our-team{
-    width: 1200px;
-    margin: 0 auto;
+
+
   padding-bottom: 94px;
   padding-top: 94px;
     background: #F5F4FA;
@@ -287,6 +292,7 @@ width: 1200px;
     letter-spacing: 0.03em;
     color: #212121;
     text-align: center;
+    margin-bottom: 50px;
   
 
 
@@ -326,7 +332,7 @@ width: 1200px;
 
 .our-team-item-cont {
     padding-top: 94px;
-    padding-top: 10px;
+    padding-top: 30px;
     padding-bottom: 30px;
     outline: 2px solid #2196F3;
 }
@@ -400,10 +406,10 @@ width: 1200px;
    
 }
 
-.container-foter{
-padding-top: 60px;
-padding-bottom: 60px;
-    background: #2F303A;
+.footer{
+    padding-top: 60px;
+    padding-bottom: 60px;
+        background: #2F303A;
 }
 
 .container-nav-foter{
