@@ -246,10 +246,7 @@ margin-bottom: 10px;
 }
 
 /*What we do*/
-.what-we-do{
-    padding-top: 94px;
-    padding-bottom: 94px;
-}
+
 
 .what-we-do-title {
     font-family: Roboto;
@@ -414,6 +411,6 @@ margin-bottom: 10px;
 }
 
 .container-nav-footer-item{
-    margin-top: 9px;
+    padding-top: 9px;
 }
 

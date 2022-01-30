@@ -12,11 +12,17 @@
  
 
 /*--------------------HEADER--------------------*/
+
+.header{
+    border-bottom: 2px solid #2196F3;
+  }
+
 .container-header{
     padding-top: 24px;
     padding-bottom: 24px;
     display: flex;
     align-items: center;
+   
 
 }
 /*Logo*/
@@ -292,10 +298,10 @@ margin-bottom: 15px;
 
 
 .projects-text-container{
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 20px;
     outline: 2px solid #2196F3;
 }
 
